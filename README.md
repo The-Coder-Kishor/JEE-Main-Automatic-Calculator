@@ -8,6 +8,7 @@ An automatic calculator for jee main marks from answer key
 4. Nervously wait for your marks.
 
 <-----Using the .py file--------->
+
 You should have python installed in your system and added to path. This has been tested for python >= 3.10. It may work for previous versions too.
 You can install python from the windows store or from [here](https://www.python.org/)
 
