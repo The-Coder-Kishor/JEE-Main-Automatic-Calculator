@@ -9,8 +9,9 @@ An automatic calculator for jee main marks from answer key
 
 <-----Using the .py file--------->
 You should have python installed in your system and added to path. This has been tested for python >= 3.10. It may work for previous versions too.
+You can install python from the windows store or from [here](https://www.python.org/)
 
-Note: You should already have pip installed on your system in order to run the above command. If you don't have pip installed, you can download it from [here](https://pip.pypa.io/en/stable/installation/).
+Note: You will already have pip installed on your system in order to run the above command. If you don't have pip installed, you can download it from [here](https://pip.pypa.io/en/stable/installation/). In case pip is not added to path follow these [steps](https://stackoverflow.com/questions/23708898/pip-is-not-recognized-as-an-internal-or-external-command)
 
 Dependencies
 The following dependencies are required to run the program:
