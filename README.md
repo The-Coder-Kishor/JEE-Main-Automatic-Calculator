@@ -1,4 +1,4 @@
-# JEE-Main-Automatic-Calculator
+# JEE-Main-Marks-Calculator(Python)
 An automatic calculator for jee main marks from answer key
 
 <------Using the .exe file------->
