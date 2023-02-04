@@ -8,10 +8,24 @@ An automatic calculator for jee main marks from answer key
 4. Nervously wait for your marks.
 
 <-----Using the .py file--------->
+You should have python installed in your system and added to path. This has been tested for python >= 3.10. It may work for previous versions too.
+
+Note: You should already have pip installed on your system in order to run the above command. If you don't have pip installed, you can download it from [here](https://pip.pypa.io/en/stable/installation/).
+
+Dependencies
+The following dependencies are required to run the program:
+
+BeautifulSoup 4: A Python library for pulling data out of HTML and XML files.
+To install BeautifulSoup, you can use the following command in the command prompt or terminal:
+
+`pip install bs4`
+
+Tkinter: A Python library to display dialog boxes where the user can input his files.
+To use Tkinter, you can use the following command in the terminal prompt or terminal:
+
+`pip install tk`
+
+
 1. Step 1 is same as above.
 2. Step 2 is same as above.
-3. Download the required python packages using
-  `pip install tkinter`
-  `pip install bs4`
-  `pip install json`
- 4. Run the file using `python total.py`
+3. Run the file using `python total.py`
