@@ -1,4 +1,5 @@
----------DISCLAIMER----------------
+-----------------------------------
+#Disclaimer
 v2 of this app has been created as a PreactJS App with Flask backend
 Check out the [repo](https://github.com/Threadsnappers/JEE-Main-Auto-Calc-v2)
 
